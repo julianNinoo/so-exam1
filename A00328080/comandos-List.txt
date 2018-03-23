@@ -11,3 +11,25 @@
    11  history > comandos-List.txt 
    12  cat comandos-List.txt 
    13  history > comandos-List.txt 
+   14  cat comandos-List.txt 
+   15  ls
+   16  cd so-exam1
+   17  git branch-a
+   18  git branch -a
+   19  git checkout julianNinoo/soexam1
+   20  cd ..
+   21  mv comandos-List.txt so-exam1/A00328080/
+   22  cd so-exam1/
+   23  git add --all
+   24  git commit -m '
+   25  git commit -m "add comandos"
+   26  git config --global user.email "julian.nino@correo.icesi.edu.co"
+   27  git commit -m "add comandos"
+   28  tig
+   29  tig
+   30  uname
+   31  uname -a
+   32  uname -o
+   33  uname -m
+   34  history
+   35  history > comandos-List.txt
