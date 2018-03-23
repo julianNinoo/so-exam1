@@ -1,0 +1,13 @@
+    1  apt-get update
+    2  apt-get upgrade
+    3  apt-get git-core
+    4  apt-get install git-core
+    5  apt-get install tig
+    6  ip a
+    7  ls
+    8  cd Documentos/
+    9  ls
+   10  ls
+   11  history > comandos-List.txt 
+   12  cat comandos-List.txt 
+   13  history > comandos-List.txt 
