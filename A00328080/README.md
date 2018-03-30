@@ -32,8 +32,13 @@ Link de la verificación:
 
 Verificación:   
 
-![](Imagenes/Descarga1.png)
+![](Imagenes/Descarga1.png)  
 
+
+## Cuarto Punto 
+Se da click en nueva en la Virtual Box, el nombre  se le da como Debian9, el tamaño de memoria no se cambió es decir que esta en 1024 MB, esto creará un disco virtual , se configuran las interfaces de red para la maquina virtual despues de esto se configuró el super usuario ,el idioma y se procede a esperar varias horas para la instalación del sistema operativo.  
+
+En los siguientes comandos se puede ver la información del sistema 
 
 
 ``` 
@@ -52,3 +57,7 @@ GNU/Linux
 julian@debian:~/Documentos$ uname -m
 x86_64
 ```
+Imagen de los comandos en esta maquina virtual
+![] (Imagenes/Descarga3) 
+
+
