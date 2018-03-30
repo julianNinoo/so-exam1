@@ -25,10 +25,10 @@ La lista de comandos empleados en este parcial se encontrará en  > comandos-Lis
 
 link de la verificación:
 
-[](Imagenes/Descarga2.png)
+![](Imagenes/Descarga2.png)
 
 Verificación: 
-[](Imagenes/Descarga1.png)
+![](Imagenes/Descarga1.png)
 
 
 
