@@ -10,9 +10,10 @@
 
  ## Descripción 
 
-En este nuevo repositorio se podrá ver el Primer examen parcial de sistemas operativos , en el cual se instala una imagen del sistema operativo 
-Debian en Virtual Box tambien la configuracion de mtPutty y de Putty.
-El repositorio antes mencionado se encontrará en este link: https://github.com/julianNinoo/so-exam1.git
+En este nuevo repositorio se podrá ver el Primer examen parcial de sistemas operativos , en el cual se instala una imagen del sistema operativo  Debian en Virtual Box tambien la configuracion de mtPutty y de Putty.  
+
+El repositorio antes mencionado se encontrará en este link: https://github.com/julianNinoo/so-exam1.git  
+
 La lista de comandos empleados en este parcial se encontrará en  > comandos-List.txt
 
 
