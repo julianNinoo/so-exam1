@@ -65,3 +65,25 @@ Imagen de los comandos en esta maquina virtual
  Se configura la IP de la maquina virtual , la comunicación por medio de SSH, el puerto que usualmente es 22 y el usuario y contraseña para acceder a la maquina virtual 
  
 ![](Imagenes/Descarga4.png) 
+
+## Sexto Punto
+
+Esta es la evidencia de la instalación de GIT y TIG  
+![](Imagenes/Descarga7.png) 
+
+
+Historial de commits
+![](Imagenes/Descarga5.png) 
+![](Imagenes/Descarga6.png) 
+
+
+(apt-get install tig)
+![](Imagenes/Descarga8.png) 
+
+
+## Septimo Punto
+
+
+## Octavo Punto 
+
+
