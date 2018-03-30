@@ -19,7 +19,17 @@ La lista de comandos empleados en este parcial se encontrará en  > comandos-Lis
  
 ## Tercer Punto
 
--Se descargó MD5 del sigiente link http://download.cnet.com/MD5-SHA-Checksum-Utility/3001-2092_4-10911445.html
+-Se descargó MD5 del sigiente link http://download.cnet.com/MD5-SHA-Checksum-Utility/3001-2092_4-10911445.html  
+-Para obtener el checksum que debemos verificar se ingresa al siguiente link : http://cdimage.debian.org/debian-cd/current/amd64/iso-cd/MD5SUMS ( prueba de esto se4 encuentra en una imagen , abajo ) 
+- Se ingresa en el campo  y se hace la respetectiva verificación 
+
+link de la verificación:
+
+[](Imagenes/Descarga2.png)
+
+Verificación: 
+[](Imagenes/Descarga1.png)
+
 
 
 ``` 
