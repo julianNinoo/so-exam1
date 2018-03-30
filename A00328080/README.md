@@ -1,8 +1,22 @@
-Julián Niño
-Código: A00328080
+ 
+
+## Primer Examen Parcial 
+
+ Nombre: Julián Niño  
+ Código: A00328080  
+ Materia: Sistemas Operativos  
+ Correo Electronico : julian.nino@correo.icesi.edu.co
 
 
- > comandos-List.txt
+ ## Descripción 
+
+En este nuevo repositorio se podrá ver el Primer examen parcial de sistemas operativos , en el cual se instala una imagen del sistema operativo 
+Debian en Virtual Box tambien la configuracion de mtPutty y de Putty.
+El repositorio antes mencionado se encontrará en este link: https://github.com/julianNinoo/so-exam1.git
+La lista de comandos empleados en este parcial se encontrará en  > comandos-List.txt
+
+
+
 
 ``` 
 julian@debian:~/Documentos$ uname
