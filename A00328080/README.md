@@ -88,17 +88,47 @@ Historial de commits
 
 Comparaciones entre CentOS7 y Debian 9 son:
 
-##CentOS7                                           	     ##Debian9
-1-La versión más fragil pesa 500MB.                        1-La versión más fragil de Debian9 pesa 300 MB.
-2-En el Mercado esta en un 21%.                            2-En el mercado esta en un 32%.
-3-La versión del Kernel es de 3.10.                        3-La version del Kernel es 4.9.0.
-4-En arquitecturas maneja x86_64.                          4-Aparte de x86 , tambien esta ARM,MIPS.
-5-Distribución de GNU/Linux.                               5-Distribución Libre.
-6-No tiene un ciclo de vida util.                          6-Ciclo de aproximadamente 10 años.
-7-Su fecha de lanzamiento fue en el 2014.                  7-Sé lanzo en el 2017.
-8-En el gestor de paquetes se encuentra yum.               8-Aquí está apt-get. 
-9-Se utiliza más que todo en servidores.                   9-Puede adaptarse a cualquier necesidad.
-10-Es usado en más de 4 millones de sitios web.             10-Es usado menos que CentOS 7 en aproximandamente 3 millones de sitios web.
+
+##CentOS7                                           	     
+1-La versión más fragil pesa 500MB.  
+##Debian9  
+1-La versión más fragil de Debian9 pesa 300 MB.  
+##CentOS7  
+2-En el Mercado esta en un 21%.  
+##Debian9  
+2-En el mercado esta en un 32%.  
+##CentOS7  
+3-La versión del Kernel es de 3.10.  
+##Debian9  
+3-La version del Kernel es 4.9.0.  
+##CentOS7  
+4-En arquitecturas maneja x86_64.  
+##Debian9  
+4-Aparte de x86 , tambien esta ARM,MIPS.  
+##CentOS7  
+5-Distribución de GNU/Linux.
+##Debian9  
+5-Distribución Libre.  
+##CentOS7  
+6-No tiene un ciclo de vida util.  
+##Debian9  
+6-Ciclo de aproximadamente 10 años.  
+##CentOS7  
+7-Su fecha de lanzamiento fue en el 2014.  
+##Debian9  
+7-Sé lanzo en el 2017.
+##CentOS7   
+8-En el gestor de paquetes se encuentra yum.  
+##Debian9   
+8-Aquí está apt-get.  
+##CentOS7  
+9-Se utiliza más que todo en servidores. 
+##Debian9   
+9-Puede adaptarse a cualquier necesidad.  
+##CentOS7   
+10-Es usado en más de 4 millones de sitios web.  
+##Debian9  
+10-Es usado menos que CentOS 7 en aproximandamente 3 millones de sitios web.
 
 ## Noveno Punto
 La URL de mi repositorio es https://github.com/julianNinoo/so-exam1 
