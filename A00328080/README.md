@@ -16,7 +16,10 @@ El repositorio antes mencionado se encontrará en este link: https://github.com/
 
 La lista de comandos empleados en este parcial se encontrará en  > comandos-List.txt
 
+ 
+## Tercer Punto
 
+-Se descargó MD5 del sigiente link http://download.cnet.com/MD5-SHA-Checksum-Utility/3001-2092_4-10911445.html
 
 
 ``` 
