@@ -83,8 +83,9 @@ Historial de commits
 
 ## Septimo Punto
 
-
-## Octavo Punto 
+![](Imagenes/Descarga9.png) 
+![](Imagenes/Descarga10.png) 
+## OCTAVO PUNTO
 
 Comparaciones entre CentOS7 y Debian 9 son:
 
@@ -130,5 +131,5 @@ Comparaciones entre CentOS7 y Debian 9 son:
 ## Debian9  
 10-Es usado menos que CentOS 7 en aproximandamente 3 millones de sitios web.
 
-## Noveno Punto
+## NOVENO PUNTO
 La URL de mi repositorio es https://github.com/julianNinoo/so-exam1 
