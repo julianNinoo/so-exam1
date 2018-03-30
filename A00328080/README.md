@@ -60,4 +60,8 @@ x86_64
 Imagen de los comandos en esta maquina virtual
 ![](Imagenes/Descarga3.png) 
 
-
+ ## Quinto Punto
+ 
+ Se configura la IP de la maquina virtual , la comunicación por medio de SSH, el puerto que usualmente es 22 y el usuario y contraseña para acceder a la maquina virtual 
+ 
+![](Imagenes/Descarga4.png) 
