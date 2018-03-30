@@ -58,6 +58,6 @@ julian@debian:~/Documentos$ uname -m
 x86_64
 ```
 Imagen de los comandos en esta maquina virtual
-![] (Imagenes/Descarga3) 
+![](Imagenes/Descarga3.png) 
 
 
