@@ -82,8 +82,11 @@ Historial de commits
 
 
 ## Septimo Punto
-##Exportar 
+
+## Exportar 
+
 ![](Imagenes/Descarga9.png) 
+
 ![](Imagenes/Descarga10.png) 
 
 ## importar a PC de la universidad
