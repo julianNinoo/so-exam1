@@ -85,6 +85,9 @@ Historial de commits
 
 ![](Imagenes/Descarga9.png) 
 ![](Imagenes/Descarga10.png) 
+![](Imagenes/Descarga11.png)
+![](Imagenes/Descarga12.png)
+
 ## OCTAVO PUNTO
 
 Comparaciones entre CentOS7 y Debian 9 son:
