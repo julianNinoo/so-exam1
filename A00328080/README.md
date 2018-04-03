@@ -89,7 +89,7 @@ Historial de commits
 
 ![](Imagenes/Descarga10.png) 
 
-## importar a PC de la universidad
+## Importar a PC de la universidad
 ![](Imagenes/Descarga11.png)
 ![](Imagenes/Descarga12.png)
 ![](Imagenes/Descarga13.png)
